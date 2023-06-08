@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Mi blog de viajes</title>
+</head>
+<body>
+<hl>Mi blog de viajes</hl>
+<p>Este blog esta dedicado a contar mis experiencias de viajes a otrs viajeros</p>
+<h2>Lugares visitados</h2>
+<ol>
+<li>Caylloma</li>
+<li>Arequipa</li>
+<li>Ica</li>
+<li>Puno</li>
+</ol>
+<p>Si deseeas saber mas sobre paquetes de viajes , te recomiendo
+   la siguiente página es muy eficiente:
+<a href="https://www.anderratravel.com/">
+</a>
+</p>
+<footer>
+ <p>Por AnderraTravel</p>
+ <p><a href="https://www.facebook.com/anderratravel">Siguela en FACEBOOK</a></p>
+</footer>
+</body>
+</html>
